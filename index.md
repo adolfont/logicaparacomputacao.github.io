@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Introdução a Lógica para Computação
 
-You can use the [editor on GitHub](https://github.com/gabrielDeio/logicaparacomputacao.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Objetivos
+ * Desenvolver conceitos de lógica proposicional e de predicados; prova automática de teoremas e programação emlógica. A disciplina tem também por objetivo desenvolver o raciocínio abstrato utilizado em outras áreas da engenhariade computação como: programação de computadores, inteligência artificial, e arquitetura de computadores
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gabrielDeio/logicaparacomputacao.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Ementa
+ * Lógica proposicional; linguagem e semântica; sistemas dedutivos; aspectos computacionais; o princípio da resolução;lógica de predicados; substituição e resolução; introdução ao PROLOG; aplicações em computação: introdução àespecificação e verificação de programas
+#### Referências Básicas
+ * ALENCAR FILHO, Edgard de. Iniciação à lógica matemática. 18 Ed. São Paulo: Nobel, 2000. 203 p.
+ * DAGHLIAN,Jacob. Lógicae álgebra de Boole.4 Ed. São Paulo: Atlas, 1995-2006. 167 p.
+ * SOUZA, João Nunes de. Lógica para ciência da computação: uma introdução concisa. 2 Ed. Rio de Janeiro:Elsevier, 2008. 220 p
+#### Referências Complementares
+ * SILVA, Flávio Soares Corrêa da; FINGER, Marcelo; MELO, Ana Cristina Vieira de. Lógica para computação. SãoPaulo, SP: Thomson, 2006, 234 p.
+ * NICOLETTI, Maria do Carmo. A cartilha Prolog. São Carlos, SP: UFSCar, 2003. 123 p. (Apontamentos. Edufscar).
+ * CASTRUCCI, Benedito. Introdução à lógica matemática. 6. ed. São Paulo: Nobel, 1984. 158 p
+ * ROBINSON, Phillip R. TURBO PROLOG: guia do usuário. São Paulo: McGraw-Hill, 1988. xx, 287 p.
+ * DIAS, Carlos Magno Corrêa. Lógica matemática: introdução ao cálculo proposicional. 2. ed. Curitiba: C.M.C.Dias, 2001. 509 p.
