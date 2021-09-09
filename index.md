@@ -1,3 +1,11 @@
+|  NAVEGAÇÃO 	|
+|---	        |
+|  [INÍCIO](https://gabrieldeio.github.io/logicaparacomputacao.github.io/) 	        |
+|  CRONOGRAMA 	        |
+|  LISTAS 	        |
+|   	        |
+
+
 # Introdução a Lógica para Computação
 
 ## Objetivos
@@ -15,11 +23,3 @@
  * CASTRUCCI, Benedito. Introdução à lógica matemática. 6. ed. São Paulo: Nobel, 1984. 158 p
  * ROBINSON, Phillip R. TURBO PROLOG: guia do usuário. São Paulo: McGraw-Hill, 1988. xx, 287 p.
  * DIAS, Carlos Magno Corrêa. Lógica matemática: introdução ao cálculo proposicional. 2. ed. Curitiba: C.M.C.Dias, 2001. 509 p.
-
-
-|  NAVEGAÇÃO 	|
-|---	        |
-|   	        |
-|   	        |
-|   	        |
-|   	        |
