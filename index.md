@@ -15,9 +15,9 @@
  * CASTRUCCI, Benedito. Introdução à lógica matemática. 6. ed. São Paulo: Nobel, 1984. 158 p
  * ROBINSON, Phillip R. TURBO PROLOG: guia do usuário. São Paulo: McGraw-Hill, 1988. xx, 287 p.
  * DIAS, Carlos Magno Corrêa. Lógica matemática: introdução ao cálculo proposicional. 2. ed. Curitiba: C.M.C.Dias, 2001. 509 p.
-
-| Tables   	|      Are      	|  Cool 	|
-|----------	|:-------------:	|------:	|
-| col 1 is 	|  left-aligned 	| $1600 	|
-| col 2 is 	|    centered   	|   $12 	|
-| col 3 is 	| right-aligned 	|    $1 	|
+|  NAVEGAÇÃO 	|
+|---	        |
+|   	        |
+|   	        |
+|   	        |
+|   	        |
